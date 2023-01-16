@@ -1,0 +1,152 @@
+{
+  "main": {
+    "id": "dbf303f0af8a5cd1",
+    "type": "split",
+    "children": [
+      {
+        "id": "760417860103031d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ecd7b78a99de6bbb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Desenvolvimento Android/Cursos/Do zero ao um no desenvolvimento android.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1ed2e52cb0e2d1d6",
+    "type": "split",
+    "children": [
+      {
+        "id": "be271f8a6f2ccdb3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f7011d617a133c6b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d36c9a1aedd1c6d6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e157e35d4cd3cf6c",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e4c7660fc1fb1e31",
+    "type": "split",
+    "children": [
+      {
+        "id": "0bd81e1a05c5cc2d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "192546e05cba7048",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Desenvolvimento Android/Cursos/Do zero ao um no desenvolvimento android.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "488428a112b60404",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Desenvolvimento Android/Cursos/Do zero ao um no desenvolvimento android.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5fbe3e297b3cb399",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8b91c601ced67a46",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Desenvolvimento Android/Cursos/Do zero ao um no desenvolvimento android.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "ecd7b78a99de6bbb",
+  "lastOpenFiles": [
+    "Desenvolvimento Android/Conhecimento/Layout.md",
+    "ViewModel.md",
+    "Desenvolvimento Android/Conhecimento/Ciclo de vida.md",
+    "Desenvolvimento Android/Cursos/Do zero ao um no desenvolvimento android.md",
+    "View.md",
+    "Desenvolvimento Android/Conhecimento/ViewGroup.md",
+    "Desenvolvimento Android/Conhecimento/Ciclo de vida de um Fragment.md",
+    "Desenvolvimento Android/Conhecimento/Ciclo de vida de uma Activity.md",
+    "[Ciclo.md",
+    "[[Ciclo.md"
+  ]
+}

@@ -1,0 +1,172 @@
+{
+  "main": {
+    "id": "e83a8bd862e7da4c",
+    "type": "split",
+    "children": [
+      {
+        "id": "41cefdb141aa882b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7739891a029dc99d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Styles & Themes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "712b4b75e4d5d49d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Repository.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f7a95a24ee494805",
+    "type": "split",
+    "children": [
+      {
+        "id": "9fcde3e9b8b68f1e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2695bfb0abf16a6c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5bbc4eabc485e97a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cdeb5da1aa0d080d",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "81a3c2b1362cf685",
+    "type": "split",
+    "children": [
+      {
+        "id": "0cb22fdccb778350",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "db2d0439cb50e9a8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Repository.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7fc11b50df241161",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Repository.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c7b297e6bbf21aa1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "74b184198219f095",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Repository.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "712b4b75e4d5d49d",
+  "lastOpenFiles": [
+    "Styles & Themes.md",
+    "Repository.md",
+    "Conhecimento/Desenvolvimento Android/Conhecimento/Activity.md",
+    "Conhecimento/Desenvolvimento Android/Conhecimento/Ciclo de vida de um Fragment.md",
+    "Themes.md",
+    "Conhecimento/Desenvolvimento Android/Conhecimento/Layout.md",
+    "Styles.md"
+  ]
+}

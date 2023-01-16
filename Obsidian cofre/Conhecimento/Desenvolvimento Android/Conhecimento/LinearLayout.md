@@ -1,0 +1,1 @@
+Um parent do tipo `LinearLayout` vai fazer com que todos `child` dentro dele fiquem alinhados **verticalmente** ou **horizontalmente**. Isso é feito através do atributo `orientation` que tu deve colocar no `LinearLayout`.
