@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "41cefdb141aa882b",
+        "id": "629838e54089f58b",
         "type": "tabs",
         "children": [
           {
-            "id": "7739891a029dc99d",
+            "id": "371434cf6316ffd6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Styles & Themes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "712b4b75e4d5d49d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Repository.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Repository.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Repository.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Repository.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -159,14 +138,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "712b4b75e4d5d49d",
+  "active": "371434cf6316ffd6",
   "lastOpenFiles": [
-    "Styles & Themes.md",
-    "Repository.md",
-    "Conhecimento/Desenvolvimento Android/Conhecimento/Activity.md",
-    "Conhecimento/Desenvolvimento Android/Conhecimento/Ciclo de vida de um Fragment.md",
-    "Themes.md",
+    "ConcatAdapter.md",
+    "Conhecimento/Desenvolvimento Android/Conhecimento/Intent.md",
     "Conhecimento/Desenvolvimento Android/Conhecimento/Layout.md",
-    "Styles.md"
+    "Aplicativos.md",
+    "Repository.md",
+    "Conhecimento/Desenvolvimento Android/Conhecimento/Componentes de um Aplicativo Android.md",
+    "Conhecimento/Desenvolvimento Android/Conhecimento/Ciclo de vida de uma Activity.md",
+    "Conhecimento/Desenvolvimento Android/Conhecimento/Ciclo de vida de um Fragment.md",
+    "Conhecimento/Desenvolvimento Android/Conhecimento/Ciclo de vida.md",
+    "Conhecimento/Desenvolvimento Android/Conhecimento/BoadcastReceiver.md"
   ]
 }

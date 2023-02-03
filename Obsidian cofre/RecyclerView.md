@@ -1,0 +1,1 @@
+Estudar sobre [[ConcatAdapter]] também.
