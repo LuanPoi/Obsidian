@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "629838e54089f58b",
+        "id": "f68e38c2b2572cc0",
         "type": "tabs",
         "children": [
           {
-            "id": "371434cf6316ffd6",
+            "id": "e91705f171c12427",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Dagger-Hilt.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "81a3c2b1362cf685",
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Dagger-Hilt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Dagger-Hilt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Dagger-Hilt.md"
+              }
             }
           }
         ]
@@ -138,17 +147,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "371434cf6316ffd6",
+  "active": "e91705f171c12427",
   "lastOpenFiles": [
-    "ConcatAdapter.md",
-    "Conhecimento/Desenvolvimento Android/Conhecimento/Intent.md",
-    "Conhecimento/Desenvolvimento Android/Conhecimento/Layout.md",
-    "Aplicativos.md",
-    "Repository.md",
+    "Conhecimento/Desenvolvimento Android/Cursos/Do zero ao um no desenvolvimento android.md",
+    "Hilt.md",
+    "Dagger-Hilt.md",
+    "Conhecimento/Desenvolvimento Android/Conhecimento/BoadcastReceiver.md",
+    "Conhecimento/Desenvolvimento Android/Conhecimento/Desenvolvimento Android.md",
+    "Conhecimento/Desenvolvimento Android/Conhecimento/ContentProvider.md",
     "Conhecimento/Desenvolvimento Android/Conhecimento/Componentes de um Aplicativo Android.md",
+    "Conhecimento/Desenvolvimento Android/Conhecimento/Service.md",
     "Conhecimento/Desenvolvimento Android/Conhecimento/Ciclo de vida de uma Activity.md",
-    "Conhecimento/Desenvolvimento Android/Conhecimento/Ciclo de vida de um Fragment.md",
-    "Conhecimento/Desenvolvimento Android/Conhecimento/Ciclo de vida.md",
-    "Conhecimento/Desenvolvimento Android/Conhecimento/BoadcastReceiver.md"
+    "ConcatAdapter.md"
   ]
 }

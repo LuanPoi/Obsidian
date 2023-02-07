@@ -26,3 +26,8 @@ Nesta aula foi abordado o assunto: [[ViewModel]].
 
 ## Aula: ViewModel e Estados (LiveData)
 Nesta aula foram abordados os assuntos:
+
+
+# Módulo 4 - Arquitetura
+## Aula: Injeção de Dependências
+Nesta aula foi abordado o assunto: [[Dagger-Hilt]].
