@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "f68e38c2b2572cc0",
+        "id": "74076c145d8ba91f",
         "type": "tabs",
         "children": [
           {
-            "id": "e91705f171c12427",
+            "id": "69f2c69a7e6e1290",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dagger-Hilt.md",
+                "file": "Conhecimento/Desenvolvimento Android/Cursos/Do zero ao um no desenvolvimento android.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "pinned": true
             }
           }
         ]
@@ -64,13 +66,20 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "3816d1c9a4ede499",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "81a3c2b1362cf685",
@@ -86,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dagger-Hilt.md",
+                "file": "Conhecimento/Desenvolvimento Android/Cursos/Do zero ao um no desenvolvimento android.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dagger-Hilt.md",
+                "file": "Conhecimento/Desenvolvimento Android/Cursos/Do zero ao um no desenvolvimento android.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dagger-Hilt.md"
+                "file": "Conhecimento/Desenvolvimento Android/Cursos/Do zero ao um no desenvolvimento android.md"
               }
             }
           }
@@ -147,11 +156,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e91705f171c12427",
+  "active": "69f2c69a7e6e1290",
   "lastOpenFiles": [
+    "Procedimento recomendado de publicação de aplicativo.md",
     "Conhecimento/Desenvolvimento Android/Cursos/Do zero ao um no desenvolvimento android.md",
-    "Hilt.md",
+    "Procedimento recomendado de pré-publicação de Aplicativo.md",
+    "versionName.md",
+    "versionCode.md",
+    "targetSdk.md",
+    "minSdk.md",
+    "ProGuard.md",
     "Dagger-Hilt.md",
+    "Hilt.md",
     "Conhecimento/Desenvolvimento Android/Conhecimento/BoadcastReceiver.md",
     "Conhecimento/Desenvolvimento Android/Conhecimento/Desenvolvimento Android.md",
     "Conhecimento/Desenvolvimento Android/Conhecimento/ContentProvider.md",

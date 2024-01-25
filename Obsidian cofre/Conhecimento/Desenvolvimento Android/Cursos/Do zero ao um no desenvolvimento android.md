@@ -31,3 +31,15 @@ Nesta aula foram abordados os assuntos:
 # Módulo 4 - Arquitetura
 ## Aula: Injeção de Dependências
 Nesta aula foi abordado o assunto: [[Dagger-Hilt]].
+
+# Módulo 6 - Publicação, Distribuição e Acompanhamento
+
+## Aula: Preparando seu aplicativo
+Nesta aula foi abordado o assunto:
+- [[Procedimento recomendado de pré-publicação de Aplicativo]].
+
+## Aula: Construção e assinatura da versão para publicação
+Nesta aula foram abordados os assuntos:
+- [[Procedimento recomendado de publicação de aplicativo]];
+- [[Product Flavors]];
+- [[Android App Bundle (AAB)]];
